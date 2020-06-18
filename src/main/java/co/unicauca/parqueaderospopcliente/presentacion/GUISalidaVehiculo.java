@@ -40,6 +40,7 @@ public class GUISalidaVehiculo extends javax.swing.JFrame {
       jtxtFTipoVehiculo.setEditable(false);// deshabilitamos la caja  jtxtFTipoVehiculo
       lblHoraYFechaEntrada.setText(Buscar.HoraFechaEntrada);//asignamos el valor de Buscar.HoraFechaEntrada a el label lblHoraYFechaEntrada
       jtxtTiempo.setEditable(false);// deshabilitamos la caja   jtxtTiempo
+      jtxtFValorPagar.setEditable(false);
     
     }
 
